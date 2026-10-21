@@ -1,0 +1,15 @@
+{
+  "name": "geovane-viana-salao",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site do Salão Geovane Viana com agendamento e painel administrativo",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "pg": "^8.16.3"
+  }
+}
